@@ -1,0 +1,7 @@
+ens.rpart                modified version of rpart
+ensemble                 train ensembles of classifiers
+fgl                      forensic glass data
+plot.ensemble            plot an ensemble object
+predict.ensemble         Return predicted values
+print.ensemble           print an ensemble object
+summary.ensemble         summary of an ensemble object
